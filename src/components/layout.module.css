@@ -1,11 +1,11 @@
 .container {
   margin: auto;
-  max-width: 500px;
+  max-width: 900px;
   font-family: sans-serif;
 }
 
 .heading {
-  color: rebeccapurple;
+  color: rgb(18, 18, 19);
 }
 .nav-links {
   display: flex;
