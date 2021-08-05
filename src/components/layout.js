@@ -19,7 +19,6 @@ const Layout = ({ pageTitle, children }) => {
       }
     }
   `);
-  console.log("data", data);
   return (
     <div className={container}>
       <title>
